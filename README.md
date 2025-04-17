@@ -1,18 +1,18 @@
 # Melchior
 [IG](https://www.instagram.com/melchiorfils?igsh=ZXhpNzR6dWdxa3hs&utm_source=qr)
-Hello! I'm Melchior, a Computer Science and Information Engineering student based in Taiwan, passionate about building scalable systems and learning everything cloud computing. This GitHub is a reflection of my journey—where I explore new technologies, solve problems, and share my progress along the way.
+Hello! I'm Melchior, a Computer Science and Information Engineering student based in Taiwan, passionate about building scalable systems and learning everything cloud computing. This GitHub is a reflection of my journey—where I explore new technologies, solve problems, and share my progress along the way.<br>
 
-🚀 What I’m Focused On
-🌩️ Cloud Computing – currently laying down the fundamentals for a future career in the cloud ecosystem.
-💻 Programming – working with Python, C, and C++, while also learning Java and expanding my software development toolkit.
-📘 Projects – building apps like Trackify, which manages media consumption with integrated APIs and database features.
-📚 Academic Growth – balancing coursework with hands-on learning through LeetCode, system design, and data engineering projects.
+🚀 What I’m Focused On<br>
+🌩️ Cloud Computing – currently laying down the fundamentals for a future career in the cloud ecosystem.<br>
+💻 Programming – working with Python, C, and C++, while also learning Java and expanding my software development toolkit.<br>
+📘 Projects – building apps like Trackify, which manages media consumption with integrated APIs and database features.<br>
+📚 Academic Growth – balancing coursework with hands-on learning through LeetCode, system design, and data engineering projects.<br>
 
-📈 Goals
-Build and deploy practical cloud-based applications.
-Earn cloud certifications (e.g., AWS, Azure, or GCP).
-Collaborate on open-source and community-driven projects.
-Thanks for visiting. Let’s connect, learn, and build together.
+📈 Goals<br>
+Build and deploy practical cloud-based applications.<br>
+Earn cloud certifications (e.g., AWS, Azure, or GCP).<br>
+Collaborate on open-source and community-driven projects.<br>
+Thanks for visiting. Let’s connect, learn, and build together.<br>
 
 
 ## 🌐 Socials:
