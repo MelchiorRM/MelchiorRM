@@ -1,5 +1,5 @@
 # Melchior
-Hello! I'm Melchior, a Computer Science and Information Engineering student based in Taiwan, passionate about building scalable systems and learning everything cloud computing. This GitHub is a reflection of my journey—where I explore new technologies, solve problems, and share my progress along the way.<br>
+Hello! I'm Melchior , a Computer Science and Information Engineering student based in Taiwan, passionate about building scalable systems and learning everything cloud computing. This GitHub is a reflection of my journey—where I explore new technologies, solve problems, and share my progress along the way.<br>
 
 🚀 What I’m Focused On<br>
 🌩️ Cloud Computing – currently laying down the fundamentals for a future career in the cloud ecosystem.<br>
