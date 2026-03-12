@@ -3,7 +3,7 @@ Hello! I'm Melchior, a Computer Science and Information Engineering student base
 
 🚀 What I’m Focused On<br>
 🌩️ Cloud Computing – currently laying down the fundamentals for a future career in the cloud ecosystem.<br>
-💻 Programming – working with Python, C, and C++, while also learning Java and expanding my software development toolkit.<br>
+💻 Programming – working with Python and C++, while also learning Java and expanding my software development toolkit.<br>
 📘 Projects – building apps like Trackify, which manages media consumption with integrated APIs and database features.<br>
 📚 Academic Growth – balancing coursework with hands-on learning through LeetCode, system design, and data engineering projects.<br>
 
